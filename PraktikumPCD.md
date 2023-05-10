@@ -1,4 +1,4 @@
-# 1207070030_Deri-Ruswandi
+
 import matplotlib.pyplot as plt
 %matplotlib inline
 
